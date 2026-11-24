@@ -3,9 +3,6 @@
 **Finance and Business Analytics** student at **I-Shou University**, working towards
 quantitative and markets roles in banking and asset management.
 
-Six self-contained studies in pricing, risk, market microstructure and empirical asset
-pricing. Every repository builds and runs its tests in CI on each push.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lyonn-lie/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyonnfl@gmail.com)
 
@@ -28,14 +25,7 @@ pricing. Every repository builds and runs its tests in CI on each push.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logoColor=white)
 ![Eigen](https://img.shields.io/badge/Eigen-%23A4243B.svg?style=for-the-badge&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-%234285F4.svg?style=for-the-badge&logoColor=white)
-
-![SEC EDGAR](https://img.shields.io/badge/SEC%20EDGAR-%231F3864.svg?style=for-the-badge&logoColor=white)
-![FRED](https://img.shields.io/badge/FRED-%23004A87.svg?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20modelling-%23217346.svg?style=for-the-badge&logoColor=white)
-![Bloomberg](https://img.shields.io/badge/Bloomberg-%23000000.svg?style=for-the-badge&logoColor=white)
-![TradingView](https://img.shields.io/badge/TradingView-%232962FF.svg?style=for-the-badge&logo=tradingview&logoColor=white)
-![IBKR](https://img.shields.io/badge/Interactive%20Brokers-%23D81222.svg?style=for-the-badge&logoColor=white)
+![GoogleTest][def]
 
 ## Projects
 
@@ -54,14 +44,8 @@ pricing. Every repository builds and runs its tests in CI on each push.
 ![Streak](https://streak-stats.demolab.com/?user=leeyawnnn&theme=gotham&hide_border=false)
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=leeyawnnn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## How I build
-
-I am a finance student, not a software engineer. I build these projects with AI coding
-agents; my part is choosing the problem, specifying the method, checking the results
-against theory and real data, and writing up what the numbers do and do not show. Where
-a result is null or negative it is the headline rather than a footnote — three of the six
-above lead with one.
-
 ## Currently
 
 Teaching assistant at I-Shou University.
+
+[def]: https://img.shields.io/badge/GoogleTest-%234285F4.svg?style=for-the-badge&logoColor=white
